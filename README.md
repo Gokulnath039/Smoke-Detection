@@ -6,7 +6,8 @@ A wide range of Custom functions for YOLOV4 and Scaled-YOLOV4 are implemented by
 
 Demo For Smoke detection using Scaled YOLOV4 
 
- ![Uploading smoke.png…]()
+ ![smoke](https://user-images.githubusercontent.com/67773609/117445624-8a777700-af58-11eb-935f-b6fcab2e45b7.png)
+
 
 Getting Started 
 
