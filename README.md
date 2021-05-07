@@ -13,12 +13,12 @@ Conda(Recommended)
 
 #Pytorch
 
-   conda create --name Scaled-YOLOV4
-   conda activate Scaled-YOLOV4-cpu
-   
+    conda create --name Scaled-YOLOV4
+    conda activate Scaled-YOLOV4-cpu
+    
  Pip
    
-  pip install -r requirements.txt
+    pip install -r requirements.txt
   
 Nvidia Driver (For GPU, if you are not using Conda Environment and haven't set up CUDA yet)
 
