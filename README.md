@@ -35,6 +35,6 @@ Download and paste the weigth file in weigth key folder
 
 After download and paste the weigth.Your are run to Object detection model in our machine by follow the command below:
 
-  python detect.py --weights . (Weigths_path) /best_yolov4-csp-results.pt --img 416 --conf 0.4 --source .. (img_path)
+    python detect.py --weights . (Weigths_path) /best_yolov4-csp-results.pt --img 416 --conf 0.4 --source .. (img_path)
 
 Wow! you done a smaoke detection 
