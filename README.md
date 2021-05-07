@@ -1,4 +1,3 @@
-![weight](https://user-images.githubusercontent.com/67773609/117445879-e6420000-af58-11eb-8a3f-82338406e6a4.png)
 Smoke-Detection 
 
 
@@ -35,9 +34,12 @@ Use my  google drive link which given below:
       
 Download and paste the weigth file in weigth key folder 
 
+![weight](https://user-images.githubusercontent.com/67773609/117445941-ffe34780-af58-11eb-939f-07dc6ad88cd9.png)
 
 
 After download and paste the weigth.Your are run to Object detection model in our machine by follow the command below:
+
+  ![run ](https://user-images.githubusercontent.com/67773609/117446218-610b1b00-af59-11eb-9982-5ebabdb6b73f.png)
 
     python detect.py --weights . (Weigths_path) /best_yolov4-csp-results.pt --img 416 --conf 0.4 --source .. (img_path)
 
