@@ -9,12 +9,11 @@ Demo For Smoke detection using Scaled YOLOV4
  ![smoke](https://user-images.githubusercontent.com/67773609/117445624-8a777700-af58-11eb-935f-b6fcab2e45b7.png)
 
 
-Getting Started 
+Getting Started !!
 
 Conda(Recommended)
 
-
-#Pytorch
+To create a virual envs in your machine by using the command below:
 
     conda create --name Scaled-YOLOV4
     conda activate Scaled-YOLOV4-cpu
@@ -43,4 +42,11 @@ After download and paste the weigth.Your are run to Object detection model in ou
 
     python detect.py --weights . (Weigths_path) /best_yolov4-csp-results.pt --img 416 --conf 0.4 --source .. (img_path)
 
-Wow! you done a smaoke detection 
+
+I take the open dataset for the training in roboflow
+
+Dataset Link is given below:
+   
+    https://public.roboflow.com/object-detection/wildfire-smoke
+    
+wow! you Made it smoke detection on your machine 
