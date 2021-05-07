@@ -6,6 +6,8 @@ A wide range of Custom functions for YOLOV4 and Scaled-YOLOV4 are implemented by
 
 Demo For Smoke detection using Scaled YOLOV4 
 
+ ![Uploading smoke.png…]()
+
 Getting Started 
 
 Conda(Recommended)
