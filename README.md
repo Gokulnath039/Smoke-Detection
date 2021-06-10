@@ -26,10 +26,8 @@ Nvidia Driver (For GPU, if you are not using Conda Environment and haven't set u
 
 Make sure to use CUDA Toolkit version 10.1 as it is the proper version for the  Pytorch version used in this repository. https://developer.nvidia.com/cuda-10.1-download-archive-update2
 
-Download my weigth key for Smoke detection 
-Use my  google drive link which given below:
+Download weigth file in <a href="https://drive.google.com/drive/folders/1IqegxIsV2iHQZeVNPgO4KKQwSEhmQmea?usp=sharing">drive</a>  
 
-      https://drive.google.com/drive/folders/1IqegxIsV2iHQZeVNPgO4KKQwSEhmQmea?usp=sharing
       
 Download and paste the weigth file in weigth key folder 
 
