@@ -24,7 +24,7 @@ To create a virual envs in your machine by using the command below:
   
 Nvidia Driver (For GPU, if you are not using Conda Environment and haven't set up CUDA yet)
 
-Make sure to use CUDA Toolkit version 10.1 as it is the proper version for the  Pytorch version used in this repository. https://developer.nvidia.com/cuda-10.1-download-archive-update2
+Make sure to use CUDA Toolkit version 10.1 as it is the proper version for the  Pytorch version used in this <a href="https://developer.nvidia.com/cuda-10.1-download-archive-update2">Repository</a>  
 
 Download weigth file in <a href="https://drive.google.com/drive/folders/1IqegxIsV2iHQZeVNPgO4KKQwSEhmQmea?usp=sharing">drive</a>  
 
